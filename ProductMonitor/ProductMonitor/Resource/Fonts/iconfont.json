@@ -1,0 +1,30 @@
+{
+  "id": "5071063",
+  "name": "MES",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "991642",
+      "name": "最小化",
+      "font_class": "zuixiaohua",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "11036302",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e66c",
+      "unicode_decimal": 58988
+    },
+    {
+      "icon_id": "39975735",
+      "name": "缩小",
+      "font_class": "suoxiao",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    }
+  ]
+}
