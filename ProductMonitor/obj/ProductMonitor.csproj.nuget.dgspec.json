@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\WPF\\ProductMonitor\\ProductMonitor\\ProductMonitor\\ProductMonitor.csproj": {}
+    "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\ProductMonitor.csproj": {}
   },
   "projects": {
-    "F:\\WPF\\ProductMonitor\\ProductMonitor\\ProductMonitor\\ProductMonitor.csproj": {
+    "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\ProductMonitor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\WPF\\ProductMonitor\\ProductMonitor\\ProductMonitor\\ProductMonitor.csproj",
+        "projectUniqueName": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\ProductMonitor.csproj",
         "projectName": "ProductMonitor",
-        "projectPath": "F:\\WPF\\ProductMonitor\\ProductMonitor\\ProductMonitor\\ProductMonitor.csproj",
-        "packagesPath": "C:\\Users\\86199\\.nuget\\packages\\",
-        "outputPath": "F:\\WPF\\ProductMonitor\\ProductMonitor\\ProductMonitor\\obj\\",
+        "projectPath": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\ProductMonitor.csproj",
+        "packagesPath": "C:\\Users\\23982\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\86199\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\23982\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

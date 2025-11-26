@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-F:\WPF\ProductMonitor\ProductMonitor\ProductMonitor\obj\Debug\net6.0-windows\
+D:\Code\C#\WPF\Project\MES_ProjectStudy\ProductMonitor\obj\Debug\net6.0-windows\
 ProductMonitor
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-F:\WPF\ProductMonitor\ProductMonitor\ProductMonitor\App.xaml
+D:\Code\C#\WPF\Project\MES_ProjectStudy\ProductMonitor\App.xaml
 21950693003
 
 468221743
-1941212338408
+194772425700
 Dictionary\OperateBtnStyleDic.xaml;MainWindow.xaml;
 
 False

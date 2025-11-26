@@ -1,32 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\WPF\\ProductMonitor\\ProductMonitor\\",
+  "WorkspaceRootPath": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|f:\\wpf\\productmonitor\\productmonitor\\productmonitor\\dictionary\\operatebtnstyledic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|solutionrelative:productmonitor\\dictionary\\operatebtnstyledic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|f:\\wpf\\productmonitor\\productmonitor\\productmonitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|d:\\code\\c#\\wpf\\project\\mes_projectstudy\\productmonitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|solutionrelative:productmonitor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|f:\\wpf\\productmonitor\\productmonitor\\productmonitor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|d:\\code\\c#\\wpf\\project\\mes_projectstudy\\productmonitor\\usercontrols\\monitoruc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|solutionrelative:productmonitor\\usercontrols\\monitoruc.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|d:\\code\\c#\\wpf\\project\\mes_projectstudy\\productmonitor\\usercontrols\\monitoruc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|solutionrelative:productmonitor\\usercontrols\\monitoruc.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|d:\\code\\c#\\wpf\\project\\mes_projectstudy\\productmonitor\\dictionary\\operatebtnstyledic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|solutionrelative:productmonitor\\dictionary\\operatebtnstyledic.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|d:\\code\\c#\\wpf\\project\\mes_projectstudy\\productmonitor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|solutionrelative:productmonitor\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|f:\\wpf\\productmonitor\\productmonitor\\productmonitor\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|d:\\code\\c#\\wpf\\project\\mes_projectstudy\\productmonitor\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|solutionrelative:productmonitor\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|f:\\wpf\\productmonitor\\productmonitor\\productmonitor\\productmonitor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|d:\\code\\c#\\wpf\\project\\mes_projectstudy\\productmonitor\\productmonitor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|solutionrelative:productmonitor\\productmonitor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|f:\\wpf\\productmonitor\\productmonitor\\productmonitor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|d:\\code\\c#\\wpf\\project\\mes_projectstudy\\productmonitor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{317E4101-EF36-D449-E93B-E11627FCF6C3}|ProductMonitor\\ProductMonitor.csproj|solutionrelative:productmonitor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -37,15 +45,52 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MonitorUC.xaml.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\UserControls\\MonitorUC.xaml.cs",
+              "RelativeDocumentMoniker": "ProductMonitor\\UserControls\\MonitorUC.xaml.cs",
+              "ToolTip": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\UserControls\\MonitorUC.xaml.cs",
+              "RelativeToolTip": "ProductMonitor\\UserControls\\MonitorUC.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T02:25:04.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MonitorUC.xaml",
+              "DocumentMoniker": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\UserControls\\MonitorUC.xaml",
+              "RelativeDocumentMoniker": "ProductMonitor\\UserControls\\MonitorUC.xaml",
+              "ToolTip": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\UserControls\\MonitorUC.xaml",
+              "RelativeToolTip": "ProductMonitor\\UserControls\\MonitorUC.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-25T02:24:47.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ProductMonitor\\MainWindow.xaml",
+              "ToolTip": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\MainWindow.xaml",
+              "RelativeToolTip": "ProductMonitor\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-19T05:23:30.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "OperateBtnStyleDic.xaml",
-              "DocumentMoniker": "F:\\WPF\\ProductMonitor\\ProductMonitor\\ProductMonitor\\Dictionary\\OperateBtnStyleDic.xaml",
+              "DocumentMoniker": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\Dictionary\\OperateBtnStyleDic.xaml",
               "RelativeDocumentMoniker": "ProductMonitor\\Dictionary\\OperateBtnStyleDic.xaml",
-              "ToolTip": "F:\\WPF\\ProductMonitor\\ProductMonitor\\ProductMonitor\\Dictionary\\OperateBtnStyleDic.xaml",
+              "ToolTip": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\Dictionary\\OperateBtnStyleDic.xaml",
               "RelativeToolTip": "ProductMonitor\\Dictionary\\OperateBtnStyleDic.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-21T05:25:27.988Z",
@@ -53,29 +98,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "F:\\WPF\\ProductMonitor\\ProductMonitor\\ProductMonitor\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "ProductMonitor\\MainWindow.xaml",
-              "ToolTip": "F:\\WPF\\ProductMonitor\\ProductMonitor\\ProductMonitor\\MainWindow.xaml",
-              "RelativeToolTip": "ProductMonitor\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-19T05:23:30.918Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "App.xaml",
-              "DocumentMoniker": "F:\\WPF\\ProductMonitor\\ProductMonitor\\ProductMonitor\\App.xaml",
+              "DocumentMoniker": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\App.xaml",
               "RelativeDocumentMoniker": "ProductMonitor\\App.xaml",
-              "ToolTip": "F:\\WPF\\ProductMonitor\\ProductMonitor\\ProductMonitor\\App.xaml",
+              "ToolTip": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\App.xaml",
               "RelativeToolTip": "ProductMonitor\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-21T00:37:31.631Z"
+              "WhenOpened": "2025-11-21T00:37:31.631Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Microsoft.NET.EolTargetFrameworks.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\10.0.100\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.EolTargetFrameworks.targets",
@@ -85,11 +120,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "App.xaml.cs",
-              "DocumentMoniker": "F:\\WPF\\ProductMonitor\\ProductMonitor\\ProductMonitor\\App.xaml.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\App.xaml.cs",
               "RelativeDocumentMoniker": "ProductMonitor\\App.xaml.cs",
-              "ToolTip": "F:\\WPF\\ProductMonitor\\ProductMonitor\\ProductMonitor\\App.xaml.cs",
+              "ToolTip": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\App.xaml.cs",
               "RelativeToolTip": "ProductMonitor\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -97,11 +132,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ProductMonitor.csproj",
-              "DocumentMoniker": "F:\\WPF\\ProductMonitor\\ProductMonitor\\ProductMonitor\\ProductMonitor.csproj",
+              "DocumentMoniker": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\ProductMonitor.csproj",
               "RelativeDocumentMoniker": "ProductMonitor\\ProductMonitor.csproj",
-              "ToolTip": "F:\\WPF\\ProductMonitor\\ProductMonitor\\ProductMonitor\\ProductMonitor.csproj",
+              "ToolTip": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\ProductMonitor.csproj",
               "RelativeToolTip": "ProductMonitor\\ProductMonitor.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -109,11 +144,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "F:\\WPF\\ProductMonitor\\ProductMonitor\\ProductMonitor\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ProductMonitor\\MainWindow.xaml.cs",
-              "ToolTip": "F:\\WPF\\ProductMonitor\\ProductMonitor\\ProductMonitor\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\MainWindow.xaml.cs",
               "RelativeToolTip": "ProductMonitor\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
