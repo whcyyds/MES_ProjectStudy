@@ -43,3 +43,10 @@ D:\Code\C#\WPF\Project\MES_ProjectStudy\ProductMonitor\obj\Debug\net6.0-windows\
 D:\Code\C#\WPF\Project\MES_ProjectStudy\ProductMonitor\obj\Debug\net6.0-windows\ProductMonitor.pdb
 D:\Code\C#\WPF\Project\MES_ProjectStudy\ProductMonitor\obj\Debug\net6.0-windows\ProductMonitor.genruntimeconfig.cache
 D:\Code\C#\WPF\Project\MES_ProjectStudy\ProductMonitor\obj\Debug\net6.0-windows\ref\ProductMonitor.dll
+D:\Code\C#\WPF\Project\MES_ProjectStudy\ProductMonitor\obj\Debug\net6.0-windows\UserControls\MonitorUC.g.cs
+D:\Code\C#\WPF\Project\MES_ProjectStudy\ProductMonitor\obj\Debug\net6.0-windows\UserControls\MonitorUC.baml
+D:\Code\C#\WPF\Project\MES_ProjectStudy\ProductMonitor\obj\Debug\net6.0-windows\Dictionary\BtnStyleDic.baml
+D:\Code\C#\WPF\Project\MES_ProjectStudy\ProductMonitor\bin\Debug\net6.0-windows\LiveCharts.dll
+D:\Code\C#\WPF\Project\MES_ProjectStudy\ProductMonitor\bin\Debug\net6.0-windows\LiveCharts.Wpf.dll
+D:\Code\C#\WPF\Project\MES_ProjectStudy\ProductMonitor\obj\Debug\net6.0-windows\ProductMonitor.csproj.AssemblyReference.cache
+D:\Code\C#\WPF\Project\MES_ProjectStudy\ProductMonitor\obj\Debug\net6.0-windows\ProductM.DEAEF65F.Up2Date

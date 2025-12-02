@@ -1,13 +1,40 @@
 {
   "version": 2,
-  "dgSpecHash": "y424esG4scg=",
+  "dgSpecHash": "j6R1d97pNpQ=",
   "success": true,
   "projectFilePath": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\ProductMonitor.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\23982\\.nuget\\packages\\livecharts\\0.9.7\\livecharts.0.9.7.nupkg.sha512",
+    "C:\\Users\\23982\\.nuget\\packages\\livecharts.wpf\\0.9.7\\livecharts.wpf.0.9.7.nupkg.sha512",
     "C:\\Users\\23982\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\23982\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\23982\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
     "C:\\Users\\23982\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net6.0-windows7.0”还原包“LiveCharts 0.9.7”。此包可能与项目不完全兼容。",
+      "projectPath": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\ProductMonitor.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\ProductMonitor.csproj",
+      "libraryId": "LiveCharts",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net6.0-windows7.0”还原包“LiveCharts.Wpf 0.9.7”。此包可能与项目不完全兼容。",
+      "projectPath": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\ProductMonitor.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\Code\\C#\\WPF\\Project\\MES_ProjectStudy\\ProductMonitor\\ProductMonitor.csproj",
+      "libraryId": "LiveCharts.Wpf",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
 }

@@ -24,7 +24,7 @@
         
         <Grid.RowDefinitions>
             <RowDefinition Height="50"/>
-            <RowDefinition Height="675"/>
+            <RowDefinition Height="auto"/>
             <RowDefinition Height="25"/>
         </Grid.RowDefinitions>
         <!--第一行 头部-->
@@ -74,6 +74,7 @@
             </Grid>
         </Border>
         <!--第二行 内容 用户控件-->
+        <ContentControl Grid.Row="1" Content="{Binding MonitorUC}"></ContentControl>
          <!--第三行 尾部-->
         <Border Grid.Row="2" BorderThickness="0,1,0,0" BorderBrush="#5518aabd">
             <Grid>

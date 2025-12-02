@@ -9,14 +9,21 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Resource\Fonts\DS-DIGIT.TTF" />
     <None Remove="Resource\Fonts\iconfont.ttf" />
     <None Remove="Resource\Images\柴犬.png" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Models\" />
-    <Folder Include="ViewModels\" />
+    <Resource Include="Resource\Fonts\DS-DIGIT.TTF" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Folder Include="Views\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="LiveCharts.Wpf" Version="0.9.7" />
   </ItemGroup>
 
   <ItemGroup>

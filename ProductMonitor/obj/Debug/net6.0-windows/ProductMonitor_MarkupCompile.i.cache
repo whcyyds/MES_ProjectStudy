@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 D:\Code\C#\WPF\Project\MES_ProjectStudy\ProductMonitor\App.xaml
-3231019997
+41624552610
 
-7-2124923611
-194772425700
-Dictionary\OperateBtnStyleDic.xaml;MainWindow.xaml;UserControls\MonitorUC.xaml;
+91837197291
+196715614487
+Dictionary\BtnStyleDic.xaml;Dictionary\OperateBtnStyleDic.xaml;MainWindow.xaml;UserControls\MonitorUC.xaml;
 
 True
 
